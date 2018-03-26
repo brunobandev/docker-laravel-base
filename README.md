@@ -6,7 +6,7 @@ Base Docker for Laravel
 * docker
 * docker-compose
 
-## Create a base folder:
+## Creation of basic structure:
 
 ```
 mkdir project 
